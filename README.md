@@ -13,7 +13,7 @@ How to Use
 Compile the Code: Compile the C++ code using your preferred compiler.
 Run the Program: Execute the compiled binary.
 <br>
-Select Options: Follow the on-screen prompts to navigate through the available options:
+Select Options: Follow the on-screen prompts to navigate through the available options:<br>
 1: Login <br>
 2: Sign-Up <br>
 3: Forgot Password <br>

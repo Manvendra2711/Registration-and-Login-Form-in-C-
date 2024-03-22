@@ -9,8 +9,7 @@ Forgot Password: Users can recover their forgotten passwords by providing their 
 Delete Account: Users can delete their accounts, removing their information from the system. <br>
 Reset Password: Users can reset their passwords after logging in. <br>
 <br>
-How to Use
-Compile the Code: Compile the C++ code using your preferred compiler.
+How to Use Compile the Code: Compile the C++ code using your preferred compiler.<br> 
 Run the Program: Execute the compiled binary.
 <br>
 Select Options: Follow the on-screen prompts to navigate through the available options:<br>

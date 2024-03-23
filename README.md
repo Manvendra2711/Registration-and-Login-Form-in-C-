@@ -11,7 +11,8 @@ Reset Password: Users can reset their passwords after logging in. <br>
 <br>
 How to Use Compile the Code: Compile the C++ code using your preferred compiler.<br> 
 Run the Program: Execute the compiled binary.
-<br>
+<be>
+<hr>
 Select Options: Follow the on-screen prompts to navigate through the available options:<br>
 1: Login <br>
 2: Sign-Up <br>
